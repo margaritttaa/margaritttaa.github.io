@@ -42,7 +42,8 @@ Feduk >Сохраню все улыбки на плёнку,
 Это время зову я любовью.
 `ура, теперь вы шарите за русский рэп`
 ![аххахаха](https://yandex.ru/search/touch/?text=feduk&lr=2&clid=2160746)
-  <!---
+ 
+  (pi)[PI.md](https://github.com/margaritttaa/margaritttaa/blob/main/PI.md)<!---
 margaritttaa/margaritttaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

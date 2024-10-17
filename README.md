@@ -1,2 +1,2 @@
 # Бузулеева Маргарита
-+ [Battleship.html] (battleship.html)
++ [Battleship.html](battleship.html)
